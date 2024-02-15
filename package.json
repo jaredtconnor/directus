@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "directus": "^10.7.0",
+    "directus-extension-tags-m2m-interface": "^0.8.0",
     "pg": "^8.11.1"
   }
 }
