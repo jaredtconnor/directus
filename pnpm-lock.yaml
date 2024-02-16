@@ -5,8 +5,8 @@ dependencies:
     specifier: ^10.9.2
     version: 10.9.2(@unhead/vue@1.8.10)(pinia@2.1.7)(vue@3.4.19)
   directus-extension-tags-m2m-interface:
-    specifier: github:dimitrov-adrian/directus-extension-tags-m2m-interface
-    version: github.com/dimitrov-adrian/directus-extension-tags-m2m-interface/5207039cfb865f4b6903d0e42546882fa89cd955
+    specifier: github:Kliqs/directus-extension-tags-m2m-interface
+    version: github.com/Kliqs/directus-extension-tags-m2m-interface/fafa7118d15b072e129f6949eb0f8e365a5c1285
   pg:
     specifier: ^8.11.3
     version: 8.11.3
@@ -9965,8 +9965,8 @@ packages:
     resolution: {integrity: sha512-iC+8Io04lddc+mVqQ9AZ7OQ2MrUKGN+oIQyq1vemgt46jwCwLfhq7/pwnBnNXXXZb8VTVLKwp9EDkx+ryxIWmg==}
     dev: false
 
-  github.com/dimitrov-adrian/directus-extension-tags-m2m-interface/5207039cfb865f4b6903d0e42546882fa89cd955:
-    resolution: {tarball: https://codeload.github.com/dimitrov-adrian/directus-extension-tags-m2m-interface/tar.gz/5207039cfb865f4b6903d0e42546882fa89cd955}
+  github.com/Kliqs/directus-extension-tags-m2m-interface/fafa7118d15b072e129f6949eb0f8e365a5c1285:
+    resolution: {tarball: https://codeload.github.com/Kliqs/directus-extension-tags-m2m-interface/tar.gz/fafa7118d15b072e129f6949eb0f8e365a5c1285}
     name: directus-extension-tags-m2m-interface
     version: 0.8.0
     dev: false
