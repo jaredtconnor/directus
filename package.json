@@ -9,8 +9,8 @@
     "node": ">=12.20.0"
   },
   "dependencies": {
-    "directus": "^10.7.0",
+    "directus": "^10.9.2",
     "directus-extension-tags-m2m-interface": "github:dimitrov-adrian/directus-extension-tags-m2m-interface",
-    "pg": "^8.11.1"
+    "pg": "^8.11.3"
   }
 }
